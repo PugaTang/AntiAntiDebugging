@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'AntiAntiDebugging' target in the 'AntiAntiDebugging' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif
